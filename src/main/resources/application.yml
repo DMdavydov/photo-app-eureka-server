@@ -1,6 +1,6 @@
 spring:
   application:
-    name: bug-tracker-eureka-server
+    name: photo-app-eureka-server
 
 eureka:
   instance:
